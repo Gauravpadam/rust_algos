@@ -1,2 +1,2 @@
-mod node;
-mod make_tree;
+pub mod node;
+pub mod make_tree;
